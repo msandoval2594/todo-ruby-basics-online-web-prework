@@ -11,7 +11,7 @@ puts "I'm right and you are wrong!"
 end
 
 def greeting(name)
-"Hello"
+"Hello #{name}
 end
 
 def return_a_value
