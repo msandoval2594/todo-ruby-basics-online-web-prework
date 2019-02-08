@@ -7,7 +7,7 @@ phrase = "Bob"
 end
 
 def argue
-puts "I'm right and you are wrong!"
+
 end
 
 def greeting
