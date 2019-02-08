@@ -6,8 +6,8 @@ def assign_variable(value)
 phrase = "Bob"  
 end
 
-def argue(name="Ruby programmer")
-puts "Hello, #{name}. I'm right and you are wrong!"
+def argue
+phrase = "I'm right and you are wrong!"
 end
 
 def greeting
