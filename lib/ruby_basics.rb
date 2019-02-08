@@ -7,7 +7,7 @@ phrase = "Bob"
 end
 
 def argue(name="Ruby programmer", language="Ruby")
-puts 
+puts "Hello, #{name}. We heard you are a great #{language} programmer."
 end
 
 def greeting
