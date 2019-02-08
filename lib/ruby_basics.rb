@@ -10,7 +10,7 @@ def argue
 phrase = "I'm right and you are wrong!"
 end
 
-def greeting
+def greeting_programmer
 end
 
 def return_a_value
