@@ -11,7 +11,7 @@ def argue
 end
 
 def greeting
-puts "
+puts "Hello, #{name}!"
 end
 
 def return_a_value
