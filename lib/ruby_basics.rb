@@ -7,11 +7,11 @@ phrase = "Bob"
 end
 
 def argue
-  
+puts "Hi, Ruby programmer!"  
 end
 
 def greeting
-puts "Hi, Ruby programmer!"
+
 end
 
 def return_a_value
