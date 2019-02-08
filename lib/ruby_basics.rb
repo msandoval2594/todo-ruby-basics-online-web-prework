@@ -11,7 +11,7 @@ phrase = "I'm right and you are wrong!"
 end
 
 def greeting(name)
-
+puts "Hello, #{name}!"
 end
 
 def return_a_value
